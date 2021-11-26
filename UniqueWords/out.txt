@@ -1,0 +1,5 @@
+Filename is Rats.txt
+Total words: 290
+Unique words over 4 characters: 84
+Unique words total: 126
+
